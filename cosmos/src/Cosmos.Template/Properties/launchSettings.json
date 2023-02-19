@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Cosmos.Template": {
+      "commandName": "Project",
+      "commandLineArgs": "query-items",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+        //"DOTNET_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
