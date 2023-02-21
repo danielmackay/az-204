@@ -4,3 +4,6 @@
 
 .vs/
 /cosmos/cosmos2/.vs/cosmos2/v17/.suo
+/cosmos/cosmos2/obj/Debug/net7.0/cosmos2.GeneratedMSBuildEditorConfig.editorconfig
+/cosmos/cosmos2/obj/Debug/net7.0/cosmos2.csproj.AssemblyReference.cache
+/cosmos/cosmos2/obj/Debug/net7.0/cosmos2.assets.cache
