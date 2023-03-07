@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RedisCache": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
